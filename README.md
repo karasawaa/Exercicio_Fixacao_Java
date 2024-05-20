@@ -37,11 +37,11 @@ Requisitos:
 - **Métodos estáticos:**
    - exibirMenu(): exibe um menu de opções:
 
-            1. Cadastrar livro
-            2. Buscar livro
-            3. Excluir livro
-            4. Listar todos os livros
-            0. Sair
+      - 1 . Cadastrar livro
+      - 2 . Buscar livro
+      - 3 . Excluir livro
+      - 4 . Listar todos os livros
+      - 0 . Sair
 
    - verificarOpcao(int opcao): recebe o valor digitado e executa a ação de acordo com o valor.
    - executar(): concentra as chamadas dos métodos exibirMenu e verificarOpcao.
